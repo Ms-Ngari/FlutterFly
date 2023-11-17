@@ -8,7 +8,7 @@ A 3d flappy bird implementation in Greek themed
 Clone the repostitory
 
 ```shell
-git clone 
+git clone https://github.com/etemesi254/FlutterFly
 ```
 
 Run pip to install dependencies
