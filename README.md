@@ -13,7 +13,7 @@ while acquiring as many coins as you can. The game ends when you hit an object
 
 ## Setup
 1. **Blender Models:**
-   - Open the `.blend` files in the `/Models` directory to view or modify the 3D models.
+   - Open the `.blend` files in the `Assets/Models` directory to view or modify the 3D models.
 
 2. **C# Code:**
    - Navigate to the `/Code` directory to view or edit the C# source files.
