@@ -16,7 +16,7 @@ while acquiring as many coins as you can. The game ends when you hit an object
    - Open the `.blend` files in the `Assets/Models` directory to view or modify the 3D models.
 
 2. **C# Code:**
-   - Navigate to the `/Code` directory to view or edit the C# source files.
+   - Navigate to the `Assets/Code` directory to view or edit the C# source files.
    - Compile the code using your preferred C# compiler.
 
 3. **Unity Project:**
